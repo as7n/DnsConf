@@ -2,7 +2,7 @@
 
 
 [![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/3187ce37-9f15-4a93-8978-670bf41a42ca.svg)](https://oosmetrics.com/repo/noVibe/DnsConf)<br>
-[![Last Build](https://github.com/noVibe/DnsConf/actions/workflows/github_action.yml/badge.svg?branch=main)](https://github.com/noVibe/DnsConf/actions/workflows/github_action.yml)<br>
+[![Last Build](../../actions/workflows/github_action.yml/badge.svg?branch=main)](../../actions/workflows/github_action.yml)<br>
 
 # Конфигуратор блокировок и перенаправлений DNS
 
